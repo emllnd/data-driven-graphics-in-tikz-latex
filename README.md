@@ -1,4 +1,4 @@
-# data-driven-graphics-in-tikz-latex
+# Data-driven graphics in TikZ/LaTeX
 
 Have a look at main.pdf to see what the code outputs.
 
